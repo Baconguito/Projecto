@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(193, 236, 250);
+}
+.meses{
+    width:65%;
+    height:160px;
+    padding-top:100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: -webkit-center;
+    margin-top: 100px;
+
+}
+ul , li{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.Enero{
+    background-image: url('../Images/f.gif');
+
+}
