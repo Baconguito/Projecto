@@ -1,0 +1,20 @@
+.fir img, .sec img, .thir img{
+    width: 200px;
+    height: 180px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fir{
+    background-color: rgb(7, 104, 107);
+    color:rgb(209, 253, 255);
+}
+.sec{
+    background-color:azure;
+}
+.thir{
+    background-color: rgb(7, 104, 107);
+    color:rgb(209, 253, 255);
+
+}
