@@ -10,6 +10,7 @@ body{
     border-radius: 20px;
     text-align: -webkit-center;
     margin-top: 100px;
+    background-position-y: 50%;
 
 }
 ul , li{
@@ -20,7 +21,52 @@ a{
     color:white;
 }
 
-.Enero{
-    background-image: url('../Images/f.gif');
+.January{
+    background-position-y: 25%;
+    background-image: url('https://www.icegif.com/wp-content/uploads/jujustu-kaisen-icegif-1.gif');
+
+}
+.February{
+    background-image: url('https://weneedfun.com/wp-content/uploads/2017/06/Cute-Anime-Gifs-55.gif');
+
+}
+.March{
+    background-image: url('https://thumbs.gfycat.com/HardtofindThankfulGraysquirrel-size_restricted.gif');
+
+}
+.April{
+    background-image: url('https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif');
+
+}
+.May{
+    background-image: url('https://64.media.tumblr.com/c548c151c8ac9b277e446c3766e01aaf/tumblr_n48jj0WKOX1tyzjj1o1_500.gif');
+
+}
+.June{
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/859480253193096865/ACCEB18A4FFC9C377442B13B81572ADAD5C52D9D/');
+
+}
+.July{
+    background-image: url('https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif');
+
+}
+.August{
+    background-image: url('https://i.pinimg.com/originals/b5/0e/5f/b50e5fa8ffd20ae8de49bb3a7fa00059.gif');
+
+}
+.September{
+    background-image: url('https://media.giphy.com/media/eR7OEDQDyA7Cg/giphy.gif');
+
+}
+.October{
+    background-image: url('https://media.giphy.com/media/8GAjKbr1gu3MA/giphy.gif');
+
+}
+.November{
+    background-image: url('https://media.giphy.com/media/kNBLrv3JiDKw/giphy.gif');
+
+}
+.December{
+    background-image: url('https://media.giphy.com/media/okWCAjMp0pInC/giphy.gif');
 
 }
