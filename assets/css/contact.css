@@ -50,7 +50,3 @@ a[href^="https"]::before {
   a[href^="tel"]::before {
     content: "📞 ";
   }
-  
-  li {
-    margin-bottom: .5rem;
-  }
